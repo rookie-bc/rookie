@@ -1,0 +1,3 @@
+﻿  contact.c
+D:\vs2019\哔哩哔哩代码\通讯录--动态\通讯录--动态\contact.c(12,11): warning C4098: “InitContact”:“void”函数返回值
+  通讯录--动态.vcxproj -> D:\vs2019\哔哩哔哩代码\通讯录--动态\Debug\通讯录--动态.exe
