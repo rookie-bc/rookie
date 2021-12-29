@@ -1,0 +1,3 @@
+lisi        	25  	b   	16556       	225                 
+wangwu      	2   	2   	22          	2                   
+zhangsan    	16  	nv  	13333333    	xian                
